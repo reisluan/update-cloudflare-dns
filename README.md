@@ -56,4 +56,4 @@ Isso atualizará os registros a cada 5 minutos.
 
 ## Licença
 
-Este projeto é distribuído sob a MIT License.
+Este projeto está licenciado sob a [MIT License](LICENSE).
